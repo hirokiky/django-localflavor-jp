@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: django-localflavor-jp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-22 01:45+0900\n"
+"POT-Creation-Date: 2013-04-22 07:42+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: vvangelovski <vvangelovski@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,190 +22,190 @@ msgstr ""
 msgid "Enter a postal code in the format XXXXXXX or XXX-XXXX."
 msgstr "Внесете поштенски број во форматот XXXXXXX или XXX-XXXX."
 
-#: jp_prefectures.py:4
+#: jp_prefectures.py:4 jp_prefectures.py:55
 msgid "Hokkaido"
 msgstr "Хокаидо"
 
-#: jp_prefectures.py:5
+#: jp_prefectures.py:5 jp_prefectures.py:56
 msgid "Aomori"
 msgstr "Аомори"
 
-#: jp_prefectures.py:6
+#: jp_prefectures.py:6 jp_prefectures.py:57
 msgid "Iwate"
 msgstr "Ивате"
 
-#: jp_prefectures.py:7
+#: jp_prefectures.py:7 jp_prefectures.py:58
 msgid "Miyagi"
 msgstr "Мијаги"
 
-#: jp_prefectures.py:8
+#: jp_prefectures.py:8 jp_prefectures.py:59
 msgid "Akita"
 msgstr "Акита"
 
-#: jp_prefectures.py:9
+#: jp_prefectures.py:9 jp_prefectures.py:60
 msgid "Yamagata"
 msgstr "Јамагата"
 
-#: jp_prefectures.py:10
+#: jp_prefectures.py:10 jp_prefectures.py:61
 msgid "Fukushima"
 msgstr "Фукушима"
 
-#: jp_prefectures.py:11
+#: jp_prefectures.py:11 jp_prefectures.py:62
 msgid "Ibaraki"
 msgstr "Ибараки"
 
-#: jp_prefectures.py:12
+#: jp_prefectures.py:12 jp_prefectures.py:63
 msgid "Tochigi"
 msgstr "Точиги"
 
-#: jp_prefectures.py:13
+#: jp_prefectures.py:13 jp_prefectures.py:64
 msgid "Gunma"
 msgstr "Гунма"
 
-#: jp_prefectures.py:14
+#: jp_prefectures.py:14 jp_prefectures.py:65
 msgid "Saitama"
 msgstr "Саитама"
 
-#: jp_prefectures.py:15
+#: jp_prefectures.py:15 jp_prefectures.py:66
 msgid "Chiba"
 msgstr "Чиба"
 
-#: jp_prefectures.py:16
+#: jp_prefectures.py:16 jp_prefectures.py:67
 msgid "Tokyo"
 msgstr "Токио"
 
-#: jp_prefectures.py:17
+#: jp_prefectures.py:17 jp_prefectures.py:68
 msgid "Kanagawa"
 msgstr "Канагава"
 
-#: jp_prefectures.py:18
+#: jp_prefectures.py:18 jp_prefectures.py:71
 msgid "Niigata"
 msgstr "Нигита"
 
-#: jp_prefectures.py:19
+#: jp_prefectures.py:19 jp_prefectures.py:72
 msgid "Toyama"
 msgstr "Тојама"
 
-#: jp_prefectures.py:20
+#: jp_prefectures.py:20 jp_prefectures.py:73
 msgid "Ishikawa"
 msgstr "Ишикава"
 
-#: jp_prefectures.py:21
+#: jp_prefectures.py:21 jp_prefectures.py:74
 msgid "Fukui"
 msgstr "Фукуи"
 
-#: jp_prefectures.py:22
+#: jp_prefectures.py:22 jp_prefectures.py:69
 msgid "Yamanashi"
 msgstr "Јаманаши"
 
-#: jp_prefectures.py:23
+#: jp_prefectures.py:23 jp_prefectures.py:70
 msgid "Nagano"
 msgstr "Нагано"
 
-#: jp_prefectures.py:24
+#: jp_prefectures.py:24 jp_prefectures.py:75
 msgid "Gifu"
 msgstr "Гифу"
 
-#: jp_prefectures.py:25
+#: jp_prefectures.py:25 jp_prefectures.py:76
 msgid "Shizuoka"
 msgstr "Шизоука"
 
-#: jp_prefectures.py:26
+#: jp_prefectures.py:26 jp_prefectures.py:77
 msgid "Aichi"
 msgstr "Аичи"
 
-#: jp_prefectures.py:27
+#: jp_prefectures.py:27 jp_prefectures.py:78
 msgid "Mie"
 msgstr "Мие"
 
-#: jp_prefectures.py:28
+#: jp_prefectures.py:28 jp_prefectures.py:79
 msgid "Shiga"
 msgstr "Шига"
 
-#: jp_prefectures.py:29
+#: jp_prefectures.py:29 jp_prefectures.py:80
 msgid "Kyoto"
 msgstr "Кјото"
 
-#: jp_prefectures.py:30
+#: jp_prefectures.py:30 jp_prefectures.py:81
 msgid "Osaka"
 msgstr "Осака"
 
-#: jp_prefectures.py:31
+#: jp_prefectures.py:31 jp_prefectures.py:82
 msgid "Hyogo"
 msgstr "Хиого"
 
-#: jp_prefectures.py:32
+#: jp_prefectures.py:32 jp_prefectures.py:83
 msgid "Nara"
 msgstr "Нара"
 
-#: jp_prefectures.py:33
+#: jp_prefectures.py:33 jp_prefectures.py:84
 msgid "Wakayama"
 msgstr "Вакајама"
 
-#: jp_prefectures.py:34
+#: jp_prefectures.py:34 jp_prefectures.py:85
 msgid "Tottori"
 msgstr "Тотори"
 
-#: jp_prefectures.py:35
+#: jp_prefectures.py:35 jp_prefectures.py:86
 msgid "Shimane"
 msgstr "Шимане"
 
-#: jp_prefectures.py:36
+#: jp_prefectures.py:36 jp_prefectures.py:87
 msgid "Okayama"
 msgstr "Окајама"
 
-#: jp_prefectures.py:37
+#: jp_prefectures.py:37 jp_prefectures.py:88
 msgid "Hiroshima"
 msgstr "Хирошима"
 
-#: jp_prefectures.py:38
+#: jp_prefectures.py:38 jp_prefectures.py:89
 msgid "Yamaguchi"
 msgstr "Јамагучи"
 
-#: jp_prefectures.py:39
+#: jp_prefectures.py:39 jp_prefectures.py:90
 msgid "Tokushima"
 msgstr "Токушима"
 
-#: jp_prefectures.py:40
+#: jp_prefectures.py:40 jp_prefectures.py:91
 msgid "Kagawa"
 msgstr "Кагава"
 
-#: jp_prefectures.py:41
+#: jp_prefectures.py:41 jp_prefectures.py:92
 msgid "Ehime"
 msgstr "Еиме"
 
-#: jp_prefectures.py:42
+#: jp_prefectures.py:42 jp_prefectures.py:93
 msgid "Kochi"
 msgstr "Кочи"
 
-#: jp_prefectures.py:43
+#: jp_prefectures.py:43 jp_prefectures.py:94
 msgid "Fukuoka"
 msgstr "Фукуока"
 
-#: jp_prefectures.py:44
+#: jp_prefectures.py:44 jp_prefectures.py:95
 msgid "Saga"
 msgstr "Сага"
 
-#: jp_prefectures.py:45
+#: jp_prefectures.py:45 jp_prefectures.py:96
 msgid "Nagasaki"
 msgstr "Нагасаки"
 
-#: jp_prefectures.py:46
+#: jp_prefectures.py:46 jp_prefectures.py:97
 msgid "Kumamoto"
 msgstr "Кумамото"
 
-#: jp_prefectures.py:47
+#: jp_prefectures.py:47 jp_prefectures.py:98
 msgid "Oita"
 msgstr "Оита"
 
-#: jp_prefectures.py:48
+#: jp_prefectures.py:48 jp_prefectures.py:99
 msgid "Miyazaki"
 msgstr "Мијазаки"
 
-#: jp_prefectures.py:49
+#: jp_prefectures.py:49 jp_prefectures.py:100
 msgid "Kagoshima"
 msgstr "Кагошима"
 
-#: jp_prefectures.py:50
+#: jp_prefectures.py:50 jp_prefectures.py:101
 msgid "Okinawa"
 msgstr "Окинава"
