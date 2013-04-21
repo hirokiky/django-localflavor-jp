@@ -24,12 +24,12 @@ class JPLocalFlavorTests(SimpleTestCase):
 <option value="chiba">Chiba</option>
 <option value="tokyo">Tokyo</option>
 <option value="kanagawa" selected="selected">Kanagawa</option>
-<option value="yamanashi">Yamanashi</option>
-<option value="nagano">Nagano</option>
 <option value="niigata">Niigata</option>
 <option value="toyama">Toyama</option>
 <option value="ishikawa">Ishikawa</option>
 <option value="fukui">Fukui</option>
+<option value="yamanashi">Yamanashi</option>
+<option value="nagano">Nagano</option>
 <option value="gifu">Gifu</option>
 <option value="shizuoka">Shizuoka</option>
 <option value="aichi">Aichi</option>
